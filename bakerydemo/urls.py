@@ -37,7 +37,7 @@ if settings.DEBUG:
     urlpatterns += [
         path(
             'favicon.ico', RedirectView.as_view(
-                url=settings.STATIC_URL + 'img/bread-favicon.ico'
+                url=settings.STATIC_URL + 'img/fs-favicon.ico'
             )
         )
     ]
