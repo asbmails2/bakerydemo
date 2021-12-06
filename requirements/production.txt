@@ -13,3 +13,6 @@ botocore>=1.12.33,<1.13
 aws-requests-auth==0.4.0
 django-redis==4.11.0
 django_cache_url==2.0.0
+
+#add git support install pip install Wand and ImageMagick
+Wand
