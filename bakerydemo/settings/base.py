@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'bakerydemo.base',
     'bakerydemo.blog',
     'bakerydemo.breads',
+    'bakerydemo.tecnologies',
     'bakerydemo.locations',
     'bakerydemo.search',
     #'bakerydemo.projects',
